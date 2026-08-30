@@ -10,7 +10,7 @@ The project provides step-by-step **console-based visualization** of states, tra
 
 > 🚀 A complete video explanation of the DFA, NFA, and NFA → DFA implementations will be added here.
 
-👉 [▶️ Watch Code Explanation Video](YOUR_GOOGLE_DRIVE_VIDEO_LINK)
+👉 [▶️ Watch Code Explanation Video](https://drive.google.com/file/d/1DS0Tm0786ll1KNS6t-Lfz9MGOcAH_Ugf/view?usp=sharing)
 
 ---
 
